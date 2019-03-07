@@ -1,0 +1,112 @@
+@media(max-width: 1199px) {}
+
+@media(max-width: 991px) {
+    .item2 img {
+        display: block;
+        margin: 0 auto;
+    }
+    .itemno2 {
+        position: absolute;
+        background: #dd2a24;
+        padding: 0 30px;
+        text-align: center;
+        border: 2px solid #fff;
+        top: 30%;
+        right: 67%;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .item img {
+        display: block;
+        margin: 0 auto;
+    }
+    .itemno {
+        position: absolute;
+        background: #dd2a24;
+        padding: 0 30px;
+        text-align: center;
+        border: 2px solid #fff;
+        top: 30%;
+        left: 66%;
+        color: #fff;
+        text-transform: uppercase;
+    }
+}
+
+@media(max-width: 767px) {
+    .itemno {
+        position: absolute;
+        background: #dd2a24;
+        padding: 0 30px;
+        text-align: center;
+        border: 2px solid #fff;
+        top: 30%;
+        left: 70%;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .itemno2 {
+        position: absolute;
+        background: #dd2a24;
+        padding: 0 30px;
+        text-align: center;
+        border: 2px solid #fff;
+        top: 30%;
+        right: 70%;
+        color: #fff;
+        text-transform: uppercase;
+    }
+}
+
+@media(max-width: 575px) {
+    .itemno {
+        position: absolute;
+        background: #dd2a24;
+        padding: 0 30px;
+        text-align: center;
+        border: 2px solid #fff;
+        top: 0;
+        left: 63%;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .itemno2 {
+        position: absolute;
+        background: #dd2a24;
+        padding: 0 30px;
+        text-align: center;
+        border: 2px solid #fff;
+        top: 0;
+        right: 20%;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .header,
+    .headermenu,
+    .banner,
+    .about,
+    .ourapproch,
+    .work,
+    .login,
+    .gettouch,
+    footer {
+        width: 565px;
+    }
+    .gettouchhead a {
+        font-size: 20px;
+        padding: 9px 7px;
+        color: #fff;
+        border: 2px solid #515151;
+        margin-left: 15px;
+    }
+    .x {
+        position: absolute;
+        left: 90%;
+        top: -20px;
+    }
+    .bannercont h1 {
+        margin: 0;
+        color: #fff;
+        font-size: 40px;
+    }
+}

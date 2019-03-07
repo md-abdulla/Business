@@ -1,0 +1,296 @@
+.header {
+    background: #f0f2f4;
+}
+
+.header ul {
+    list-style: none;
+    text-align: right;
+    margin: 0;
+}
+
+.header ul li {
+    display: inline-block;
+    padding: 7px;
+}
+
+.header ul li a {
+    color: gray;
+}
+
+.fas.fa-mobile-alt {
+    padding-right: 5px;
+}
+
+.fas.fa-envelope {
+    padding-right: 5px;
+}
+
+.fab.fa-facebook {
+    color: blue;
+}
+
+.headermenu {}
+
+.headermenu .btn {
+    background: #dd2a24;
+    color: #fff;
+    margin-left: 51px;
+}
+
+.banner {
+    background: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.vh {
+    height: 90vh;
+}
+
+.bannercont {}
+
+.bannercont h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 60px;
+}
+
+.bannercont h4 {
+    color: #fff;
+    margin-bottom: 35px;
+}
+
+.bannercont .btn {
+    background: #f8cd53;
+    padding: 10px 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.about {
+    padding: 50px 0;
+}
+
+.aboutheader {}
+
+.aboutheader h2 {
+    color: #424242;
+    font-size: 36px;
+    margin: 0;
+}
+
+.aboutheader h4 {
+    font-size: 20px;
+    color: #424242;
+}
+
+.aboutheader span {
+    display: block;
+    background: #424242;
+    height: 6px;
+    width: 80px;
+    margin: 0 auto;
+}
+
+.abcont {}
+
+.abcont h5 {
+    font-size: 22px;
+    color: #424242;
+    padding: 15px 0;
+}
+
+.abcont p {
+    font-size: 14px;
+    color: #5b5b5b;
+}
+
+.oap {
+    font-weight: bold;
+}
+
+.ourapproch {
+    padding: 50px 0;
+    background: #f3f3f3;
+}
+
+.item {}
+
+.item img {
+    margin-left: -15px;
+    position: relative;
+}
+
+.item h5,
+.item2 h5 {
+    font-size: 18px;
+    color: #424242;
+    padding: 10px 0;
+}
+
+.item p,
+.item2 p {
+    font-size: 18px;
+    color: #5c5c5c;
+}
+
+.itemno {
+    position: absolute;
+    background: #dd2a24;
+    padding: 0 30px;
+    text-align: center;
+    border: 2px solid #fff;
+    top: 30%;
+    left: 75%;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.itemno h1 {}
+
+.itemno p {}
+
+.item2 img {
+    margin-left: 28px;
+}
+
+.itemno2 {
+    position: absolute;
+    background: #dd2a24;
+    padding: 0 30px;
+    text-align: center;
+    border: 2px solid #fff;
+    top: 30%;
+    right: 75%;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.work {
+    padding: 50px 0;
+    background: #dd2a24;
+}
+
+.workcont h2 {
+    color: #fff;
+    font-size: 36px;
+    margin: 0;
+}
+
+.workcont h4 {
+    font-size: 20px;
+    color: #fff;
+}
+
+.workcont span {
+    display: block;
+    background: #fff;
+    height: 6px;
+    width: 80px;
+    margin: 0 auto;
+}
+
+.work img {
+    margin: -2px;
+}
+
+.login {
+    background: #1287bf;
+    padding: 50px 0;
+}
+
+.loginheader {
+    color: #fff;
+}
+
+.loginheader h4 {
+    font-size: 20px;
+}
+
+.loginheader h6 {}
+
+.login .fas {
+    font-size: 40px;
+}
+
+.col-7 {
+    position: relative;
+}
+
+form p {
+    text-align: center;
+    font-size: 15px;
+    color: #828282;
+    margin-bottom: 30px;
+}
+
+form input {
+    padding: 15px !important;
+    margin-bottom: 20px;
+}
+
+.x {
+    position: absolute;
+    left: 95%;
+    top: -20px;
+}
+
+form .btn {
+    background: #dd2a24;
+    color: #fff;
+}
+
+.gettouch {
+    background: #2a2a2a;
+    padding: 50px 0;
+}
+
+.gettouchhead {
+    color: #fff;
+}
+
+.gettouchhead h2 {
+    margin-bottom: 40px;
+}
+
+.gettouchhead a {
+    font-size: 20px;
+    padding: 9px 15px;
+    color: #fff;
+    border: 2px solid #515151;
+    margin-left: 15px;
+}
+
+.gettouchhead a:hover {
+    border: 2px solid red;
+}
+
+.gettouchhead p {
+    padding: 30px 0;
+    font-size: 14px;
+    color: #cecece;
+}
+
+.gettouchhead input {
+    border: 2px solid #515151;
+    background: #515151;
+}
+
+.gettouchhead .btn {
+    margin-top: 30px;
+    padding: 10px 30px;
+    color: #fff;
+    background: none;
+    border: 2px solid #515151;
+}
+
+footer {
+    background: #515151;
+    margin: 0;
+}
+
+footer p {
+    margin: 0;
+    padding: 10px;
+}
